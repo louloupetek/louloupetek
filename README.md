@@ -1,10 +1,21 @@
 ## Hi I'm Lucy 👋
 
-🌱 Dynamic and results-driven Global Sales and Operations Manager with a proven track record of exceeding sales targets and key performance indicators (KPIs). Renowned for exceptional interpersonal skills and the ability to foster strong relationships with diverse teams and customers. Known for professionalism, approachability, and the ability to quickly build rapport with stakeholders.
+🌱 I am currently transitioning into the field of cybersecurity, driven by a passion for safeguarding digital assets and mitigating modern cyber threats. I am actively enhancing my expertise through HyperionDev's Cyber Security Bootcamp, gaining hands-on experience in this ever-evolving landscape.
 
-With 24 years of experience in the luxury industry, including 14 years with e-commerce leader Yoox Net-A-Porter Group, I have honed my expertise in customer service and sales. My career journey has fueled a strong interest in technology, particularly data analytics tools. Adept at navigating complex data landscapes, I have mastered platforms like Salesforce reporting and Power BI, creating insightful dashboards.
+With 24 years of experience in the luxury sector, including 14 years at the forefront of e-commerce with Yoox Net-A-Porter Group, I have developed a keen interest in technology and data analytics. My proficiency in tools like Salesforce and Power BI has enabled me to navigate complex data environments and deliver actionable insights through customized dashboards.
 
-Currently, I am looking to transition into the field of cyber security and am actively pursuing my studies through the Cyber Security Bootcamp with HyperionDev. This new direction reflects my passion for safeguarding digital assets and understanding modern cyber threats, equipping me with the skills to contribute to the ever-evolving security lands.
+Known for my strong interpersonal skills, I excel in building relationships with diverse teams and stakeholders. My professional background is defined by approachability, reliability, and the ability to foster collaboration in dynamic environments.
+
+I am now building a robust foundation in cybersecurity and software development, with practical experience in the following areas:
+
+* Python Programming: Automating tasks with user-defined functions and mastering data processing through I/O operations.
+* Cybersecurity Principles & Defensive Strategies: Applying core security concepts (CIA triad) and implementing defensive measures like firewalls and encryption.
+* Cyber Governance: Managing cybersecurity risks and ensuring compliance with legal and regulatory standards.
+* Systems, Tools, Hashing, and Ciphers: Utilizing tools such as Wireshark and encryption techniques to secure data and monitor systems.
+* Kali Linux, HTTP, and SSH: Proficient in penetration testing with Kali Linux, and secure system administration using HTTP and SSH.
+* Bash Scripting & Cron Jobs: Automating security and maintenance tasks with Bash scripting and scheduled cron jobs.
+* XSS and SQL Injection: Identifying and mitigating web vulnerabilities such as Cross-Site Scripting (XSS) and SQL Injection.
+* Penetration Testing & Ethical Hacking: Practicing offensive security techniques to ethically discover and address vulnerabilities.
 
 -😄 Pronouns: She/Her
 
